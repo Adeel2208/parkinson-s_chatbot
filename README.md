@@ -18,6 +18,8 @@ A production-ready chatbot providing Parkinson's disease insights from PDF data,
    ```bash
    pip install -r docs/requirements.txt
    ```
+Dataset Link: https://drive.google.com/file/d/1MeFV4oyNHouLPuI-KKTIPfHo1cccZHDN/view?usp=drive_link
+   
 3. Install the package:
    ```bash
    python setup.py install
